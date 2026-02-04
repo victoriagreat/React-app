@@ -1,0 +1,17 @@
+npm create vite@latest
+
+✔ Project name: react-intro
+✔ Select a framework: React
+✔ Select a variant: JavaScript
+
+cd react-app
+
+npm install to install all dependencies, all required packages.
+
+start the development server:  npm run dev
+
+main.jsx
+This is where React starts:
+
+App.jsx
+This is your main component:
